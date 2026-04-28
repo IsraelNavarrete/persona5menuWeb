@@ -16,7 +16,7 @@ body {
 
 }
 
-.joker-main-menu {
+.joker {
     max-height: 70%;
     max-width: 60%;
     display: block;
@@ -110,4 +110,9 @@ polygon {
 @font-face {
     font-family: 'persona5menu';
     src: url(../font/Persona5MenuFontPrototype-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'persona5letter';
+    src: url(../font/Persona5main.ttf);
 }
